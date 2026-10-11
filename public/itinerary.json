@@ -1,0 +1,126 @@
+{
+  "title": "Best of South America",
+  "bookingReference": "18046",
+  "flightReservationCode": "WRAHAW",
+  "startDate": "2027-06-25",
+  "endDate": "2027-07-18",
+  "durationDays": 24,
+  "leadCustomer": "Elissa Sarich",
+  "travelers": [
+    {
+      "name": "Michael Sarich",
+      "tickets": {
+        "QF776_PER_MEL": "0453947240458/59",
+        "LA804_MEL_SCL": "0453947240458/59",
+        "LA455_SCL_AEP": "0453947240458/59",
+        "AR1780_AEP_IGR": "0443947546731",
+        "LA3685_IGU_GIG": "0453947578479",
+        "LA2405_GIG_LIM": "0453947578479",
+        "LA2120_LIM_CUZ": "0453947578479",
+        "LA521_LIM_SCL": "0453947240458/59",
+        "LA805_SCL_MEL": "0453947240458/59",
+        "QF765_MEL_PER": "0453947240458/59"
+      }
+    },
+    {
+      "name": "Elissa Sarich",
+      "tickets": {
+        "QF776_PER_MEL": "0453947240460/61",
+        "LA804_MEL_SCL": "0453947240460/61",
+        "LA455_SCL_AEP": "0453947240460/61",
+        "AR1780_AEP_IGR": "0443947546732",
+        "LA3685_IGU_GIG": "0453947578480",
+        "LA2405_GIG_LIM": "0453947578480",
+        "LA2120_LIM_CUZ": "0453947578480",
+        "LA521_LIM_SCL": "0453947240460/61",
+        "LA805_SCL_MEL": "0453947240460/61",
+        "QF765_MEL_PER": "0453947240460/61"
+      }
+    }
+  ],
+  "consultant": {
+    "name": "Daniel Tilyard",
+    "email": "daniel@eclipsetravel.com.au",
+    "phoneAU": "+61 2 4297 1756",
+    "phoneNZ": "+64 4 803 9336",
+    "phoneUS": "+1 301 450 4331",
+    "agency": "Eclipse Travel Pty Ltd",
+    "agencyHotline": "1300 575 752",
+    "address": "Level 5, 115 Pitt Street, Sydney NSW 2000, Australia"
+  },
+  "pricing": {
+    "perPersonAUD": 10994,
+    "totalAUD": 21988,
+    "currency": "AUD",
+    "inclusionsSummary": "Internal airfares, luxury boutique hotels, private guided tours with entrance fees, transfers, meals as specified. Checked baggage: Qantas/LATAM 23kg, Aerolineas 15kg."
+  },
+  "accommodations": [
+    {
+      "hotel": "Palo Santo Hotel Palermo",
+      "location": "Buenos Aires, Argentina",
+      "address": "Bonpland 2275, C1425FWC Buenos Aires, Argentina",
+      "phone": "+54 11 5280 6100",
+      "dates": "26 Jun 2027 - 30 Jun 2027",
+      "nights": 4,
+      "room": "Premium Room (35m², balcony, vertical gardens)",
+      "board": "Breakfast included"
+    },
+    {
+      "hotel": "Das Cataratas, Belmond Hotel",
+      "location": "Foz do Iguaçu, Brazil",
+      "address": "Rodovia Br 469 Km 32, Foz Do Iguacu",
+      "phone": "+55 45 2102-7000",
+      "dates": "30 Jun 2027 - 02 Jul 2027",
+      "nights": 2,
+      "room": "Deluxe Room",
+      "board": "Breakfast included",
+      "special": "Located directly inside Iguassu National Park with exclusive morning and dusk falls access"
+    },
+    {
+      "hotel": "Miramar Hotel by Windsor",
+      "location": "Rio de Janeiro, Brazil",
+      "address": "Avenida Atlântica, 3668, Copacabana, Rio de Janeiro",
+      "phone": "+55 21 2195-6200",
+      "dates": "02 Jul 2027 - 06 Jul 2027",
+      "nights": 4,
+      "room": "Superior Room Partial Ocean View",
+      "board": "Breakfast included",
+      "special": "Rooftop green granite pool across Copacabana beach"
+    },
+    {
+      "hotel": "JW Marriott Hotel Cusco",
+      "location": "Cusco, Peru",
+      "address": "Calle Ruinas 432 y San Agustín, Cusco Historic Center",
+      "phone": "+51 84 582200",
+      "dates": "06 Jul 2027 - 10 Jul 2027",
+      "nights": 4,
+      "room": "Deluxe Room (Oxygen Enriched)",
+      "board": "Breakfast included",
+      "special": "Oxygen system to assist altitude acclimatization in 16th-century convent"
+    },
+    {
+      "hotel": "El Albergue Ollantaytambo",
+      "location": "Sacred Valley, Peru",
+      "address": "Estación de tren s/n Ollantaytambo, 084 Ollantaytambo",
+      "phone": "+51 84 204014",
+      "dates": "10 Jul 2027 - 12 Jul 2027",
+      "nights": 2,
+      "room": "Superior Garden Room",
+      "board": "Breakfast included",
+      "special": "Located right at the Machu Picchu train station platform, organic farm & sauna"
+    },
+    {
+      "hotel": "Humano, Lima, a Tribute Portfolio Hotel",
+      "location": "Lima, Peru",
+      "address": "Malecón Balta 710, Miraflores, Lima",
+      "phone": "+51 1-9041400",
+      "dates": "12 Jul 2027 - 16 Jul 2027",
+      "nights": 4,
+      "room": "Superior Room",
+      "board": "Breakfast included",
+      "special": "Heart of Miraflores near ocean boardwalk and Larcomar"
+    }
+  ],
+  "flightsCount": 10,
+  "internalAirfareIncluded": true
+}

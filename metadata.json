@@ -1,0 +1,6 @@
+{
+  "name": "TripIt South America - Offline Travel Companion",
+  "description": "Offline-ready travel itinerary PWA for iPhone featuring complete flights, luxury hotel vouchers, day-by-day tours, offline currency tool, and emergency contacts for South America.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
